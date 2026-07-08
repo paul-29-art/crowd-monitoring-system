@@ -1,4 +1,4 @@
-##Crowd monitoring system
+## Crowd monitoring system
 ## Features
 
 - **Real-Time Crowd Detection:** Developed a smart surveillance system using **YOLOv8 Nano** and **OpenCV** to detect and count people from live CCTV/IP camera feeds with high accuracy and low latency.
